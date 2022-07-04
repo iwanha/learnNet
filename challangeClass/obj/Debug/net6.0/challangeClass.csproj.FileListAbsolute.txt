@@ -1,0 +1,15 @@
+C:\Development\C#\challangeClass\bin\Debug\net6.0\challangeClass.exe
+C:\Development\C#\challangeClass\bin\Debug\net6.0\challangeClass.deps.json
+C:\Development\C#\challangeClass\bin\Debug\net6.0\challangeClass.runtimeconfig.json
+C:\Development\C#\challangeClass\bin\Debug\net6.0\challangeClass.dll
+C:\Development\C#\challangeClass\bin\Debug\net6.0\challangeClass.pdb
+C:\Development\C#\challangeClass\obj\Debug\net6.0\challangeClass.csproj.AssemblyReference.cache
+C:\Development\C#\challangeClass\obj\Debug\net6.0\challangeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\challangeClass\obj\Debug\net6.0\challangeClass.AssemblyInfoInputs.cache
+C:\Development\C#\challangeClass\obj\Debug\net6.0\challangeClass.AssemblyInfo.cs
+C:\Development\C#\challangeClass\obj\Debug\net6.0\challangeClass.csproj.CoreCompileInputs.cache
+C:\Development\C#\challangeClass\obj\Debug\net6.0\challangeClass.dll
+C:\Development\C#\challangeClass\obj\Debug\net6.0\refint\challangeClass.dll
+C:\Development\C#\challangeClass\obj\Debug\net6.0\challangeClass.pdb
+C:\Development\C#\challangeClass\obj\Debug\net6.0\challangeClass.genruntimeconfig.cache
+C:\Development\C#\challangeClass\obj\Debug\net6.0\ref\challangeClass.dll

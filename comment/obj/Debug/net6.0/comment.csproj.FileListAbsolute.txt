@@ -1,0 +1,15 @@
+C:\Development\C#\comment\bin\Debug\net6.0\comment.exe
+C:\Development\C#\comment\bin\Debug\net6.0\comment.deps.json
+C:\Development\C#\comment\bin\Debug\net6.0\comment.runtimeconfig.json
+C:\Development\C#\comment\bin\Debug\net6.0\comment.dll
+C:\Development\C#\comment\bin\Debug\net6.0\comment.pdb
+C:\Development\C#\comment\obj\Debug\net6.0\comment.csproj.AssemblyReference.cache
+C:\Development\C#\comment\obj\Debug\net6.0\comment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\comment\obj\Debug\net6.0\comment.AssemblyInfoInputs.cache
+C:\Development\C#\comment\obj\Debug\net6.0\comment.AssemblyInfo.cs
+C:\Development\C#\comment\obj\Debug\net6.0\comment.csproj.CoreCompileInputs.cache
+C:\Development\C#\comment\obj\Debug\net6.0\comment.dll
+C:\Development\C#\comment\obj\Debug\net6.0\refint\comment.dll
+C:\Development\C#\comment\obj\Debug\net6.0\comment.pdb
+C:\Development\C#\comment\obj\Debug\net6.0\comment.genruntimeconfig.cache
+C:\Development\C#\comment\obj\Debug\net6.0\ref\comment.dll

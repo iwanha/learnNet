@@ -1,0 +1,15 @@
+C:\Development\C#\challangeIfElse\obj\Debug\net6.0\challangeIfElse.csproj.AssemblyReference.cache
+C:\Development\C#\challangeIfElse\obj\Debug\net6.0\challangeIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\challangeIfElse\obj\Debug\net6.0\challangeIfElse.AssemblyInfoInputs.cache
+C:\Development\C#\challangeIfElse\obj\Debug\net6.0\challangeIfElse.AssemblyInfo.cs
+C:\Development\C#\challangeIfElse\obj\Debug\net6.0\challangeIfElse.csproj.CoreCompileInputs.cache
+C:\Development\C#\challangeIfElse\bin\Debug\net6.0\challangeIfElse.exe
+C:\Development\C#\challangeIfElse\bin\Debug\net6.0\challangeIfElse.deps.json
+C:\Development\C#\challangeIfElse\bin\Debug\net6.0\challangeIfElse.runtimeconfig.json
+C:\Development\C#\challangeIfElse\bin\Debug\net6.0\challangeIfElse.dll
+C:\Development\C#\challangeIfElse\bin\Debug\net6.0\challangeIfElse.pdb
+C:\Development\C#\challangeIfElse\obj\Debug\net6.0\challangeIfElse.dll
+C:\Development\C#\challangeIfElse\obj\Debug\net6.0\refint\challangeIfElse.dll
+C:\Development\C#\challangeIfElse\obj\Debug\net6.0\challangeIfElse.pdb
+C:\Development\C#\challangeIfElse\obj\Debug\net6.0\challangeIfElse.genruntimeconfig.cache
+C:\Development\C#\challangeIfElse\obj\Debug\net6.0\ref\challangeIfElse.dll

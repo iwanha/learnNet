@@ -1,0 +1,15 @@
+C:\Development\C#\Tes\bin\Debug\net6.0\Tes.exe
+C:\Development\C#\Tes\bin\Debug\net6.0\Tes.deps.json
+C:\Development\C#\Tes\bin\Debug\net6.0\Tes.runtimeconfig.json
+C:\Development\C#\Tes\bin\Debug\net6.0\Tes.dll
+C:\Development\C#\Tes\bin\Debug\net6.0\Tes.pdb
+C:\Development\C#\Tes\obj\Debug\net6.0\Tes.csproj.AssemblyReference.cache
+C:\Development\C#\Tes\obj\Debug\net6.0\Tes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\Tes\obj\Debug\net6.0\Tes.AssemblyInfoInputs.cache
+C:\Development\C#\Tes\obj\Debug\net6.0\Tes.AssemblyInfo.cs
+C:\Development\C#\Tes\obj\Debug\net6.0\Tes.csproj.CoreCompileInputs.cache
+C:\Development\C#\Tes\obj\Debug\net6.0\Tes.dll
+C:\Development\C#\Tes\obj\Debug\net6.0\refint\Tes.dll
+C:\Development\C#\Tes\obj\Debug\net6.0\Tes.pdb
+C:\Development\C#\Tes\obj\Debug\net6.0\Tes.genruntimeconfig.cache
+C:\Development\C#\Tes\obj\Debug\net6.0\ref\Tes.dll

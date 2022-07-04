@@ -1,0 +1,15 @@
+C:\Development\C#\challangeBasicOperation\obj\Debug\net6.0\challangeBasicOperation.csproj.AssemblyReference.cache
+C:\Development\C#\challangeBasicOperation\obj\Debug\net6.0\challangeBasicOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\challangeBasicOperation\obj\Debug\net6.0\challangeBasicOperation.AssemblyInfoInputs.cache
+C:\Development\C#\challangeBasicOperation\obj\Debug\net6.0\challangeBasicOperation.AssemblyInfo.cs
+C:\Development\C#\challangeBasicOperation\obj\Debug\net6.0\challangeBasicOperation.csproj.CoreCompileInputs.cache
+C:\Development\C#\challangeBasicOperation\bin\Debug\net6.0\challangeBasicOperation.exe
+C:\Development\C#\challangeBasicOperation\bin\Debug\net6.0\challangeBasicOperation.deps.json
+C:\Development\C#\challangeBasicOperation\bin\Debug\net6.0\challangeBasicOperation.runtimeconfig.json
+C:\Development\C#\challangeBasicOperation\bin\Debug\net6.0\challangeBasicOperation.dll
+C:\Development\C#\challangeBasicOperation\bin\Debug\net6.0\challangeBasicOperation.pdb
+C:\Development\C#\challangeBasicOperation\obj\Debug\net6.0\challangeBasicOperation.dll
+C:\Development\C#\challangeBasicOperation\obj\Debug\net6.0\refint\challangeBasicOperation.dll
+C:\Development\C#\challangeBasicOperation\obj\Debug\net6.0\challangeBasicOperation.pdb
+C:\Development\C#\challangeBasicOperation\obj\Debug\net6.0\challangeBasicOperation.genruntimeconfig.cache
+C:\Development\C#\challangeBasicOperation\obj\Debug\net6.0\ref\challangeBasicOperation.dll

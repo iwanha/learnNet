@@ -1,0 +1,15 @@
+C:\Development\C#\latihan\bin\Debug\net6.0\latihan.exe
+C:\Development\C#\latihan\bin\Debug\net6.0\latihan.deps.json
+C:\Development\C#\latihan\bin\Debug\net6.0\latihan.runtimeconfig.json
+C:\Development\C#\latihan\bin\Debug\net6.0\latihan.dll
+C:\Development\C#\latihan\bin\Debug\net6.0\latihan.pdb
+C:\Development\C#\latihan\obj\Debug\net6.0\latihan.csproj.AssemblyReference.cache
+C:\Development\C#\latihan\obj\Debug\net6.0\latihan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\latihan\obj\Debug\net6.0\latihan.AssemblyInfoInputs.cache
+C:\Development\C#\latihan\obj\Debug\net6.0\latihan.AssemblyInfo.cs
+C:\Development\C#\latihan\obj\Debug\net6.0\latihan.csproj.CoreCompileInputs.cache
+C:\Development\C#\latihan\obj\Debug\net6.0\latihan.dll
+C:\Development\C#\latihan\obj\Debug\net6.0\refint\latihan.dll
+C:\Development\C#\latihan\obj\Debug\net6.0\latihan.pdb
+C:\Development\C#\latihan\obj\Debug\net6.0\latihan.genruntimeconfig.cache
+C:\Development\C#\latihan\obj\Debug\net6.0\ref\latihan.dll

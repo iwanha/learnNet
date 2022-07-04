@@ -1,0 +1,15 @@
+C:\Development\C#\learnIfElse2\bin\Debug\net6.0\learnIfElse2.exe
+C:\Development\C#\learnIfElse2\bin\Debug\net6.0\learnIfElse2.deps.json
+C:\Development\C#\learnIfElse2\bin\Debug\net6.0\learnIfElse2.runtimeconfig.json
+C:\Development\C#\learnIfElse2\bin\Debug\net6.0\learnIfElse2.dll
+C:\Development\C#\learnIfElse2\bin\Debug\net6.0\learnIfElse2.pdb
+C:\Development\C#\learnIfElse2\obj\Debug\net6.0\learnIfElse2.csproj.AssemblyReference.cache
+C:\Development\C#\learnIfElse2\obj\Debug\net6.0\learnIfElse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\learnIfElse2\obj\Debug\net6.0\learnIfElse2.AssemblyInfoInputs.cache
+C:\Development\C#\learnIfElse2\obj\Debug\net6.0\learnIfElse2.AssemblyInfo.cs
+C:\Development\C#\learnIfElse2\obj\Debug\net6.0\learnIfElse2.csproj.CoreCompileInputs.cache
+C:\Development\C#\learnIfElse2\obj\Debug\net6.0\learnIfElse2.dll
+C:\Development\C#\learnIfElse2\obj\Debug\net6.0\refint\learnIfElse2.dll
+C:\Development\C#\learnIfElse2\obj\Debug\net6.0\learnIfElse2.pdb
+C:\Development\C#\learnIfElse2\obj\Debug\net6.0\learnIfElse2.genruntimeconfig.cache
+C:\Development\C#\learnIfElse2\obj\Debug\net6.0\ref\learnIfElse2.dll

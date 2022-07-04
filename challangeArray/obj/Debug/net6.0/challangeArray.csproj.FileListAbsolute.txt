@@ -1,0 +1,15 @@
+C:\Development\C#\challangeArray\obj\Debug\net6.0\challangeArray.csproj.AssemblyReference.cache
+C:\Development\C#\challangeArray\obj\Debug\net6.0\challangeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\challangeArray\obj\Debug\net6.0\challangeArray.AssemblyInfoInputs.cache
+C:\Development\C#\challangeArray\obj\Debug\net6.0\challangeArray.AssemblyInfo.cs
+C:\Development\C#\challangeArray\obj\Debug\net6.0\challangeArray.csproj.CoreCompileInputs.cache
+C:\Development\C#\challangeArray\bin\Debug\net6.0\challangeArray.exe
+C:\Development\C#\challangeArray\bin\Debug\net6.0\challangeArray.deps.json
+C:\Development\C#\challangeArray\bin\Debug\net6.0\challangeArray.runtimeconfig.json
+C:\Development\C#\challangeArray\bin\Debug\net6.0\challangeArray.dll
+C:\Development\C#\challangeArray\bin\Debug\net6.0\challangeArray.pdb
+C:\Development\C#\challangeArray\obj\Debug\net6.0\challangeArray.dll
+C:\Development\C#\challangeArray\obj\Debug\net6.0\refint\challangeArray.dll
+C:\Development\C#\challangeArray\obj\Debug\net6.0\challangeArray.pdb
+C:\Development\C#\challangeArray\obj\Debug\net6.0\challangeArray.genruntimeconfig.cache
+C:\Development\C#\challangeArray\obj\Debug\net6.0\ref\challangeArray.dll

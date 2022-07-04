@@ -1,0 +1,15 @@
+C:\Development\C#\learnString2\bin\Debug\net6.0\learnString2.exe
+C:\Development\C#\learnString2\bin\Debug\net6.0\learnString2.deps.json
+C:\Development\C#\learnString2\bin\Debug\net6.0\learnString2.runtimeconfig.json
+C:\Development\C#\learnString2\bin\Debug\net6.0\learnString2.dll
+C:\Development\C#\learnString2\bin\Debug\net6.0\learnString2.pdb
+C:\Development\C#\learnString2\obj\Debug\net6.0\learnString2.csproj.AssemblyReference.cache
+C:\Development\C#\learnString2\obj\Debug\net6.0\learnString2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\learnString2\obj\Debug\net6.0\learnString2.AssemblyInfoInputs.cache
+C:\Development\C#\learnString2\obj\Debug\net6.0\learnString2.AssemblyInfo.cs
+C:\Development\C#\learnString2\obj\Debug\net6.0\learnString2.csproj.CoreCompileInputs.cache
+C:\Development\C#\learnString2\obj\Debug\net6.0\learnString2.dll
+C:\Development\C#\learnString2\obj\Debug\net6.0\refint\learnString2.dll
+C:\Development\C#\learnString2\obj\Debug\net6.0\learnString2.pdb
+C:\Development\C#\learnString2\obj\Debug\net6.0\learnString2.genruntimeconfig.cache
+C:\Development\C#\learnString2\obj\Debug\net6.0\ref\learnString2.dll
