@@ -1,0 +1,15 @@
+C:\Development\C#\LoggingAndTracing\obj\Debug\net6.0\LoggingAndTracing.csproj.AssemblyReference.cache
+C:\Development\C#\LoggingAndTracing\obj\Debug\net6.0\LoggingAndTracing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\LoggingAndTracing\obj\Debug\net6.0\LoggingAndTracing.AssemblyInfoInputs.cache
+C:\Development\C#\LoggingAndTracing\obj\Debug\net6.0\LoggingAndTracing.AssemblyInfo.cs
+C:\Development\C#\LoggingAndTracing\obj\Debug\net6.0\LoggingAndTracing.csproj.CoreCompileInputs.cache
+C:\Development\C#\LoggingAndTracing\bin\Debug\net6.0\LoggingAndTracing.exe
+C:\Development\C#\LoggingAndTracing\bin\Debug\net6.0\LoggingAndTracing.deps.json
+C:\Development\C#\LoggingAndTracing\bin\Debug\net6.0\LoggingAndTracing.runtimeconfig.json
+C:\Development\C#\LoggingAndTracing\bin\Debug\net6.0\LoggingAndTracing.dll
+C:\Development\C#\LoggingAndTracing\bin\Debug\net6.0\LoggingAndTracing.pdb
+C:\Development\C#\LoggingAndTracing\obj\Debug\net6.0\LoggingAndTracing.dll
+C:\Development\C#\LoggingAndTracing\obj\Debug\net6.0\refint\LoggingAndTracing.dll
+C:\Development\C#\LoggingAndTracing\obj\Debug\net6.0\LoggingAndTracing.pdb
+C:\Development\C#\LoggingAndTracing\obj\Debug\net6.0\LoggingAndTracing.genruntimeconfig.cache
+C:\Development\C#\LoggingAndTracing\obj\Debug\net6.0\ref\LoggingAndTracing.dll
